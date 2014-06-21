@@ -45,7 +45,7 @@ El documento explica como se ha conseguido resolver problemas mediante el softwa
 \tableofcontents
 \newpage
 
-\section{El problema de dieta}
+\section{Problema de dieta}
 
 \subsection{Discripción del problema}
 Se desea añadir a la dieta de ciertos animales de granja cantidades extra de tiamina, fósforo y hierro.\\
@@ -149,6 +149,55 @@ ans =
    6.2983
    1.6347
 \end{verbatim}
+
+\section{Problema de QuickSort}
+\subsection{Discripción del problema}
+\textbf {Ordenamiento Rápido (Quicksort)}\\
+ El ordenamiento rápido (quicksort) es un algoritmo basado en la técnica de divide y vencerás, que permite, en promedio, ordenar n elementos en un tiempo proporcional a n log n.\\
+Esta es la técnica de ordenamiento más rápida conocida.\\
+
+\subsection{El algoritmo fundamental de QuickSort}
+• Elegir un elemento de la lista de elementos a ordenar, al que llamaremos pivote.\\
+• Resituar los demás elementos de la lista a cada lado del pivote, de manera que a un lado queden todos los menores que él, y al otro los mayores. En este momento, el pivote ocupa exactamente el lugar que le corresponderá en la lista ordenada.\\
+• La lista queda separada en dos sublistas, una formada por los elementos a la izquierda del pivote, y otra por los elementos a su derecha.\\
+• Repetir este proceso de forma recursiva para cada sublista mientras éstas contengan más de un elemento. Una vez terminado este proceso todos los elementos estarán ordenados. Como se puede suponer, la eficiencia del algoritmo depende de la posición en la que termine el pivote elegido.\\
+• En el mejor caso, el pivote termina en el centro de la lista, dividiéndola en dos sublistas de igual tamaño. En este caso, el orden de complejidad del algoritmo es O(n·log n).\\
+• En el peor caso, el pivote termina en un extremo de la lista. El orden de complejidad del algoritmo es entonces de 0(n2). El peor caso dependerá de la implementación del algoritmo, aunque habitualmente ocurre en listas que se encuentran ordenadas, o casi ordenadas.\\
+• En el caso promedio, el orden es O(n·log n).\\
+
+\subsection{Psos de QuickSort}
+\begin{figure}[H]
+  \centering
+    \includegraphics{imagenes/pasosQuickSort}
+\end{figure}
+
+\subsection{El plot 2D en el peor caso de QuickSort en OCTAVE}
+El peor caso como se ha explicado es cuando la complejidad igual a O(n2), el plot de (n2) usando OCTAVE es seguir los siguientes pasos:\\
+• Se introduce en Octave primero el intervalo de los numero que se quiere que se toma n, en el ejemplo propuesto toma los valores entre [0,10].\\
+\begin{verbatim}
+ctave:4> y=0:0.1:10;
+octave:5> plot(y,pow2(y));
+\end{verbatim}
+
+• Luego se muestra graficamente el plot de (n2).\\
+\begin{verbatim}
+octave:5> plot(y,pow2(y));
+\end{verbatim}
+\begin{figure}[H]
+  \centering
+    \includegraphics{imagenes/plot2}
+\end{figure}
+
+\subsection{El plot 3D en el peor caso de QuickSort en OCTAVE}
+\begin{verbatim}
+octave:4> z=[0:0.1:10];
+octave:5> plot3(z,pow2(z))
+\end{verbatim}
+\begin{figure}[H]
+  \centering
+    \includegraphics{imagenes/plot3}
+\end{figure}
+
 
 \end{document}
 
