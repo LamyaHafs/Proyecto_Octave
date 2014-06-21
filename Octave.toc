@@ -1,0 +1,4 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}El problema de dieta}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Discripci\IeC {\'o}n del problema}{3}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Soluci\IeC {\'o}n}{3}{subsection.1.2}
