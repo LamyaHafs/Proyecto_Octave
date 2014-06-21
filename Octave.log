@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.6.19)  21 JUN 2014 02:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2014.6.19)  21 JUN 2014 23:47
 entering extended mode
  %&-line parsing enabled.
 **\nonstopmode \input{"/home/lamy/Desktop/Dis/Octave.tex"}
@@ -325,6 +325,86 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks20
 \@floatcapt=\box27
 )
+(/usr/share/texmf-texlive/tex/latex/mh/mathtools.sty
+Package: mathtools 2008/08/01 v1.06 mathematical typesetting tools (MH)
+
+(/usr/share/texmf-texlive/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count95
+\calc@Bcount=\count96
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count97
+\calc@Cskip=\skip45
+)
+(/usr/share/texmf-texlive/tex/latex/mh/mhsetup.sty
+Package: mhsetup 2007/12/03 v1.2 programming setup (MH)
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen112
+))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen113
+)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen114
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip10
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks22
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks23
+\eqnshift@=\dimen115
+\alignsep@=\dimen116
+\tagshift@=\dimen117
+\tagwidth@=\dimen118
+\totwidth@=\dimen119
+\lineht@=\dimen120
+\@envbody=\toks24
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+\g_MT_multlinerow_int=\count110
+\l_MT_multwidth_dim=\dimen121
+)
 (/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2009/10/09 v6.79a Hypertext links for LaTeX
 
@@ -338,9 +418,9 @@ O)
 (/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
-\@linkdim=\dimen110
-\Hy@linkcounter=\count95
-\Hy@pagecounter=\count96
+\@linkdim=\dimen122
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
@@ -377,7 +457,7 @@ Package hyperref Info: Backreferencing OFF on input line 2995.
 Implicit mode ON; LaTeX internals redefined
 Package hyperref Info: Bookmarks ON on input line 3191.
 (/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty
-\Urlmuskip=\muskip10
+\Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 3428.
@@ -407,10 +487,10 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )))
-\Fld@menulength=\count97
-\Field@Width=\dimen111
-\Fld@charsize=\dimen112
-\Field@toks=\toks21
+\Fld@menulength=\count113
+\Field@Width=\dimen123
+\Fld@charsize=\dimen124
+\Field@toks=\toks26
 Package hyperref Info: Hyper figures OFF on input line 4377.
 Package hyperref Info: Link nesting OFF on input line 4382.
 Package hyperref Info: Hyper index ON on input line 4385.
@@ -422,14 +502,14 @@ Package hyperref Info: PDF/A mode OFF on input line 4407.
 (/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 )
-\Hy@abspage=\count98
-\c@Item=\count99
-\c@Hfootnote=\count100
+\Hy@abspage=\count114
+\c@Item=\count115
+\c@Hfootnote=\count116
 )
 *hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count101
+\Fld@listcount=\count117
 )
 
 LaTeX Warning: Unused global option(s):
@@ -496,16 +576,16 @@ driver: pdftex
 -----------------------
 (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
-\scratchdimen=\dimen113
-\scratchbox=\box28
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks22
-\MPscratchCnt=\count105
-\MPscratchDim=\dimen114
-\MPnumerator=\count106
-\everyMPtoPDFconversion=\toks23
+\scratchcounter=\count118
+\scratchdimen=\dimen125
+\scratchbox=\box30
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen126
+\MPnumerator=\count122
+\everyMPtoPDFconversion=\toks28
 )
 Package hyperref Info: Link coloring OFF on input line 24.
  (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
@@ -514,7 +594,7 @@ Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count107
+\c@section@level=\count123
 )
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
@@ -523,31 +603,20 @@ LaTeX Info: Redefining \pageref on input line 24.
 \@outlinefile=\write3
 \openout3 = `Octave.out'.
 
-\AtBeginShipoutBox=\box29
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 27.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+\AtBeginShipoutBox=\box31
 
-<imagenes/octave.png, id=15, 339.2675pt x 250.9375pt>
+<imagenes/octave.png, id=43, 279.0425pt x 181.67876pt>
 File: imagenes/octave.png Graphic file (type png)
 
 <use imagenes/octave.png> [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/lamy/Desktop/Dis/ima
-genes/octave.png (PNG copy)>]
+genes/octave.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 39--42
 
  []
 
-(/home/lamy/Desktop/Dis/Octave.toc
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
+(/home/lamy/Desktop/Dis/Octave.toc)
 \tf@toc=\write4
 \openout4 = `Octave.toc'.
 
@@ -561,23 +630,167 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
-[3] (/home/lamy/Desktop/Dis/Octave.aux) ) 
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 69.
+
+LaTeX Font Info:    No file OMScmss.fd. on input line 69.
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 69.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--73
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
+
+ []
+
+<imagenes/pasosQuickSort.png, id=83, 499.8675pt x 367.3725pt>
+File: imagenes/pasosQuickSort.png Graphic file (type png)
+
+<use imagenes/pasosQuickSort.png> [5]
+Underfull \hbox (badness 10000) in paragraph at lines 188--190
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+<imagenes/plot2.png, id=88, 304.13625pt x 241.65282pt>
+File: imagenes/plot2.png Graphic file (type png)
+
+<use imagenes/plot2.png> [6 </home/lamy/Desktop/Dis/imagenes/pasosQuickSort.png
+ (PNG copy)>] <imagenes/plot3.png, id=93, 422.32782pt x 348.55219pt>
+File: imagenes/plot3.png Graphic file (type png)
+
+<use imagenes/plot3.png> [7 </home/lamy/Desktop/Dis/imagenes/plot2.png (PNG cop
+y)> </home/lamy/Desktop/Dis/imagenes/plot3.png (PNG copy)>]
+(/home/lamy/Desktop/Dis/Octave.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5413 strings out of 495061
- 76465 string characters out of 1182621
- 153259 words of memory out of 3000000
- 8504 multiletter control sequences out of 15000+50000
- 10296 words of font info for 36 fonts, out of 3000000 for 9000
+ 6455 strings out of 495061
+ 90603 string characters out of 1182621
+ 176928 words of memory out of 3000000
+ 9500 multiletter control sequences out of 15000+50000
+ 11890 words of font info for 43 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 39i,7n,36p,345b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/share/texmf-texlive/fonts/type1/
-public/amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsf
-onts/cm/cmss12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cms
-s17.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></us
-r/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on Octave.pdf (3 pages, 108172 bytes).
+ 39i,9n,36p,423b,431s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/
+amsfonts/cm/cmss10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm
+/cmss12.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss17.pfb
+></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share
+/texmf-texlive/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-te
+xlive/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Octave.pdf (7 pages, 200238 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 PDF objects out of 1000 (max. 8388607)
+ 19 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

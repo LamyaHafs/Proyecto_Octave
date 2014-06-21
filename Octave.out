@@ -1,3 +1,10 @@
-\BOOKMARK [1][-]{section.1}{El problema de dieta}{}
-\BOOKMARK [2][-]{subsection.1.1}{Discripci\363n del problema}{section.1}
+\BOOKMARK [1][-]{section.1}{Problema de dieta}{}
+\BOOKMARK [2][-]{subsection.1.1}{Descripci\363n del problema}{section.1}
 \BOOKMARK [2][-]{subsection.1.2}{Soluci\363n}{section.1}
+\BOOKMARK [2][-]{subsection.1.3}{Soluci\363n en OCTAVE}{section.1}
+\BOOKMARK [1][-]{section.2}{Problema de QuickSort}{}
+\BOOKMARK [2][-]{subsection.2.1}{Descripci\363n del problema}{section.2}
+\BOOKMARK [2][-]{subsection.2.2}{El algoritmo fundamental de QuickSort}{section.2}
+\BOOKMARK [2][-]{subsection.2.3}{Pasos de QuickSort}{section.2}
+\BOOKMARK [2][-]{subsection.2.4}{ilustraci\363n 2D en el peor caso de QuickSort en OCTAVE}{section.2}
+\BOOKMARK [2][-]{subsection.2.5}{ilustraci\363n 3D en el peor caso de QuickSort en OCTAVE}{section.2}
